@@ -397,7 +397,7 @@ body.dark-theme{
 
 .skills__info{
        grid-template-columns: repeat(4, 1fr);
-       gap: 2.5rem 2rem;
+       gap: 2.5rem 0rem;
 }
 
 .skills__data{
@@ -828,7 +828,6 @@ body.dark-theme{
        .container{
               margin-inline: 1rem;
        }
-
        .nav__menu{
               padding-bottom: 4rem;
        }
@@ -1139,5 +1138,5 @@ body.dark-theme{
        }}
        .home__container{
               display: grid;
-              grid-template-columns: 1fr 2fr 1fr;
+              
        }
